@@ -11,4 +11,4 @@ A Trilha Americana é dedicada a Design, UX, Acessibilidade e Arquitetura de Com
 | **11:45** | Design Multissensorial: quando a tecnologia desperta sentidos | Paola Lescura e Carolina Bessa |
 | **14:00** | [Design Inclusivo: muito além da acessibilidade técnica](./DevPira%20-%20Design%20Inclusivo_%20muito%20além%20da%20acessibilidade%20técnica%20%281%29.pdf) | Vitor David |
 | **14:50** | Toda era é uma era tecnológica | Tânia S. M. Pinheiro |
-| **15:40** | Atomic Design como Arquitetura de Componentes: Lições para um Código Sustentável | Paulo Cândido |
+| **15:40** | [Atomic Design como Arquitetura de Componentes: Lições para um Código Sustentável](./%5BDevPira%20Festival%202025%5D%20Atomic%20Design%20como%20Arquitetura%20de%20Componentes.pdf) | Paulo Cândido |
