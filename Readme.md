@@ -66,7 +66,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 | **10:55** | [IA e Segurança Cibernética](./Trilha%20Limeira/Fernando%20Bryan%20-%20Apresentação.pdf) | Fernando Bryan |
 | **11:45** | [GenAI Além do Prompt: do ML Clássico aos Sistemas Multiagentes](./Trilha%20Limeira/GenAI%20Além%20do%20Prompt.pdf) | Alisson Fernandes |
 | **14:00** | [O futuro da Agilidade na IA](./Trilha%20Limeira/oFuturoDaAgilidadenaEraDaIA_DevPira.pdf) | André Cipolini |
-| **14:50** | Vibe Coding - Aplicando IA no Desenvolvimento de Software | Bruno Orlandi |
+| **14:50** | [Vibe Coding - Aplicando IA no Desenvolvimento de Software](./Trilha%20Limeira/DEVPIRA_%20Aplicando%20IA%20no%20Desenvolvimento%20de%20Software%20-%20DEVPIRA%202025.pdf) | Bruno Orlandi |
 | **15:40** | [Usando serviços de I.A. de Fala e Visão para criar aplicações inclusivas](./Trilha%20Limeira/Nizzola%20-%20devpira%202025.pptx) | Márcio Nizzola |
 
 ### 🛠️ [Trilha Rio Claro](./Trilha%20Rio%20Claro/)
