@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 ### 🎤 [Trilha Piracicaba](./Trilha%20Piracicaba/)
 
-**Carreira, Desenvolvimento Profissional e Novas Fronteiras do Software**
+#### Carreira, Desenvolvimento Profissional e Novas Fronteiras do Software
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 ### 🎨 [Trilha Americana](./Trilha%20Americana/)
 
-**Design, UX, Acessibilidade e Arquitetura de Componentes**
+#### Design, UX, Acessibilidade e Arquitetura de Componentes
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 ### 📈 [Trilha Campinas](./Trilha%20Campinas/)
 
-**Gestão de Resultados, Carreira, Inovação Sustentável e IA**
+#### Gestão de Resultados, Carreira, Inovação Sustentável e IA
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 ### 🔒 [Trilha Capivari](./Trilha%20Capivari/)
 
-**Cloud Computing, Arquitetura de Alta Performance e Segurança**
+#### Cloud Computing, Arquitetura de Alta Performance e Segurança
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 ### 🤖 [Trilha Limeira](./Trilha%20Limeira/)
 
-**Inteligência Artificial, Arquitetura e Segurança em IA**
+#### Inteligência Artificial, Arquitetura e Segurança em IA
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
@@ -71,7 +71,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 ### 🛠️ [Trilha Rio Claro](./Trilha%20Rio%20Claro/)
 
-**Desenvolvimento de Software, Qualidade de Código, Testes e Arquitetura de Dados**
+#### Desenvolvimento de Software, Qualidade de Código, Testes e Arquitetura de Dados
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
