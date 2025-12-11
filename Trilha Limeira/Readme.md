@@ -7,7 +7,7 @@ A Trilha Limeira é dedicada integralmente ao tema de Inteligência Artificial (
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
 | **10:05** | [AI First x Team First: Escolhas que Escalam Organizações e Desbloqueiam Valor com IA](./Erick%20Aceiro%20-%20AI%20FirstxTeam%20First.pdf) | Erik Aceiro Antonio |
-| **10:55** | IA e Segurança Cibernética | Fernando Bryan |
+| **10:55** | [IA e Segurança Cibernética](./Fernando%20Bryan%20-%20Apresentação.pdf) | Fernando Bryan |
 | **11:45** | [GenAI Além do Prompt: do ML Clássico aos Sistemas Multiagentes](./GenAI%20Além%20do%20Prompt.pdf) | Alisson Fernandes |
 | **14:00** | O futuro da Agilidade na IA | André Cipolini |
 | **14:50** | Vibe Coding - Aplicando IA no Desenvolvimento de Software | Bruno Orlandi |

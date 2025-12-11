@@ -40,8 +40,8 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 | **10:55** | [Do KPI ao OKR / Como Evoluir a Gestão de Resultados](./Trilha%20Campinas/Do%20KPI%20ao%20OKR_%20Como%20Evoluir%20a%20Gestão%20de%20Resultados.pptx.pdf) | Thiago Trivelato |
 | **11:45** | [Sustentabilidade em foco: qual o papel da comunicação e do marketing?](./Trilha%20Campinas/Sustentabilidade%20em%20foco%20-%20Qual%20o%20papel%20da%20comunicação%20e%20do%20marketing.pdf) | Gustavo Tangi |
 | **14:00** | [Como dev consegue promoção, Mudando comportamento em reuniões](./Trilha%20Campinas/Como%20dev%20consegue%20promoção,%20Mudando%20comportamento%20em%20reuniões.%20Sem%20Deixar%20transparência%20e%20valor.%20%282%29.pptx) | Andre Molero |
-| **14:50** | Inovação Sustentável para o Desenvolvimento de Produto | Alan Mendes e Fernando Oliveira |
-| **15:40** | Aprender Brincando com IA: Ludicidade, Voz e Histórias de Aprendizagem | Davi Fontebasso Marques de Almeida |
+| **14:50** | [Inovação Sustentável para o Desenvolvimento de Produto](./Trilha%20Campinas/Alan%20-%20WS%20DevPira.pdf) | Alan Mendes e Fernando Oliveira |
+| **15:40** | [Aprender Brincando com IA: Ludicidade, Voz e Histórias de Aprendizagem](./Trilha%20Campinas/Aprender%20Brincando%20com%20IA.pdf) | Davi Fontebasso Marques de Almeida |
 
 ### 🔒 [Trilha Capivari](./Trilha%20Capivari/)
 
@@ -49,7 +49,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
-| **10:05** | GreenOps: menos instância, mais esperança | Felipe KiKo |
+| **10:05** | [GreenOps: menos instância, mais esperança](./Trilha%20Capivari/DEVPIRA%20Festival%202025%20-%20GreenOps_%20menos%20instância,%20mais%20esperança.pdf) | Felipe KiKo |
 | **10:55** | [Hackers não batem na porta — eles entram pela janela que você deixou aberta](./Trilha%20Capivari/Hackers%20não%20batem%20na%20porta%20-%20eles%20entram%20pela%20janela%20que%20você%20deixou%20aberta.pptx) | Alexandre Felipe Banzatto |
 | **11:45** | [Cell-Based Architecture: Escalando sistema de estoque para suportar +30k RPS](./Trilha%20Capivari/Tech%20Talk_%20Cell-Based%20Architecture.pdf) | Luram Archanjo |
 | **14:00** | O Inimigo no seu Build: Como trazer Inteligência de Ameaças para o Ciclo de Dev | Tulio Gomes |
@@ -63,7 +63,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
 | **10:05** | [AI First x Team First: Escolhas que Escalam Organizações e Desbloqueiam Valor com IA](./Trilha%20Limeira/Erick%20Aceiro%20-%20AI%20FirstxTeam%20First.pdf) | Erik Aceiro Antonio |
-| **10:55** | IA e Segurança Cibernética | Fernando Bryan |
+| **10:55** | [IA e Segurança Cibernética](./Trilha%20Limeira/Fernando%20Bryan%20-%20Apresentação.pdf) | Fernando Bryan |
 | **11:45** | [GenAI Além do Prompt: do ML Clássico aos Sistemas Multiagentes](./Trilha%20Limeira/GenAI%20Além%20do%20Prompt.pdf) | Alisson Fernandes |
 | **14:00** | O futuro da Agilidade na IA | André Cipolini |
 | **14:50** | Vibe Coding - Aplicando IA no Desenvolvimento de Software | Bruno Orlandi |
