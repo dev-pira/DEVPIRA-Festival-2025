@@ -76,7 +76,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
 | **10:05** | [O Dev estratégico existe? Ferramentas e práticas para ir Além](./Trilha%20Rio%20Claro/O%20Dev%20estratégico%20existe%20Ferramentas%20e%20práticas%20para%20ir%20Além.pdf) | Ana Paula Lima |
-| **10:55** | Acessibilidade web na prática | Décio Stenico |
+| **10:55** | [Acessibilidade web na prática](https://github.com/stenicodecio/devpira-2025-acessibilidade) | Décio Stenico |
 | **11:45** | Modelagem Relacional X Modelagem Dimensional - aspectos negligenciados em DataWarehouses | Hugo Venturini |
 | **14:00** | Testes de Mutação: Como Descobrir se Seus Testes São Mentirosos | Carlos Forti |
 | **14:50** | [Test Driven Development (TDD) na Prática com Django](https://github.com/orlandosaraivajr/festival_devPira_2025) | Orlando Saraiva Júnior |
