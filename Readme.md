@@ -28,7 +28,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 | **11:45** | Design Multissensorial: quando a tecnologia desperta sentidos | Paola Lescura e Carolina Bessa |
 | **14:00** | [Design Inclusivo: muito além da acessibilidade técnica](./Trilha%20Americana/DevPira%20-%20Design%20Inclusivo_%20muito%20além%20da%20acessibilidade%20técnica%20%281%29.pdf) | Vitor David |
 | **14:50** | Toda era é uma era tecnológica | Tânia S. M. Pinheiro |
-| **15:40** | Atomic Design como Arquitetura de Componentes: Lições para um Código Sustentável | Paulo Cândido |
+| **15:40** | [Atomic Design como Arquitetura de Componentes: Lições para um Código Sustentável](./Trilha%20Americana/%5BDevPira%20Festival%202025%5D%20Atomic%20Design%20como%20Arquitetura%20de%20Componentes.pdf) | Paulo Cândido |
 
 ### 📈 [Trilha Campinas](./Trilha%20Campinas/)
 
@@ -67,7 +67,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 | **11:45** | [GenAI Além do Prompt: do ML Clássico aos Sistemas Multiagentes](./Trilha%20Limeira/GenAI%20Além%20do%20Prompt.pdf) | Alisson Fernandes |
 | **14:00** | O futuro da Agilidade na IA | André Cipolini |
 | **14:50** | Vibe Coding - Aplicando IA no Desenvolvimento de Software | Bruno Orlandi |
-| **15:40** | Usando serviços de I.A. de Fala e Visão para criar aplicações inclusivas | Márcio Nizzola |
+| **15:40** | [Usando serviços de I.A. de Fala e Visão para criar aplicações inclusivas](./Trilha%20Limeira/Nizzola%20-%20devpira%202025.pptx) | Márcio Nizzola |
 
 ### 🛠️ [Trilha Rio Claro](./Trilha%20Rio%20Claro/)
 
@@ -75,7 +75,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
-| **10:05** | O Dev estratégico existe? Ferramentas e práticas para ir Além | Ana Paula Lima |
+| **10:05** | [O Dev estratégico existe? Ferramentas e práticas para ir Além](./Trilha%20Rio%20Claro/O%20Dev%20estratégico%20existe%20Ferramentas%20e%20práticas%20para%20ir%20Além.pdf) | Ana Paula Lima |
 | **10:55** | Acessibilidade web na prática | Décio Stenico |
 | **11:45** | Modelagem Relacional X Modelagem Dimensional - aspectos negligenciados em DataWarehouses | Hugo Venturini |
 | **14:00** | Testes de Mutação: Como Descobrir se Seus Testes São Mentirosos | Carlos Forti |

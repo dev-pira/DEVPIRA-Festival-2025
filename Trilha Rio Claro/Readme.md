@@ -6,7 +6,7 @@ A Trilha Rio Claro é focada em práticas de desenvolvimento de software, qualid
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
-| **10:05** | O Dev estratégico existe? Ferramentas e práticas para ir Além | Ana Paula Lima |
+| **10:05** | [O Dev estratégico existe? Ferramentas e práticas para ir Além](./O%20Dev%20estratégico%20existe%20Ferramentas%20e%20práticas%20para%20ir%20Além.pdf) | Ana Paula Lima |
 | **10:55** | Acessibilidade web na prática | Décio Stenico |
 | **11:45** | Modelagem Relacional X Modelagem Dimensional - aspectos quase sempre negligenciados na construção de DataWarehouses | Hugo Venturini |
 | **14:00** | Testes de Mutação: Como Descobrir se Seus Testes São Mentirosos | Carlos Forti |
