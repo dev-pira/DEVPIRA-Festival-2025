@@ -36,7 +36,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 
 | Horário | Palestra | Palestrante(s) |
 | :--- | :--- | :--- |
-| **10:05** | DESPERTAR - para o desenvolvimento de uma carreira com mais autonomia | Roberto Leitão |
+| **10:05** | [DESPERTAR - para o desenvolvimento de uma carreira com mais autonomia](./Trilha%20Campinas/Roberto%20-%20Pamonha%20de%20Ideias%20DEVPIRA.pdf) | Roberto Leitão |
 | **10:55** | [Do KPI ao OKR / Como Evoluir a Gestão de Resultados](./Trilha%20Campinas/Do%20KPI%20ao%20OKR_%20Como%20Evoluir%20a%20Gestão%20de%20Resultados.pptx.pdf) | Thiago Trivelato |
 | **11:45** | [Sustentabilidade em foco: qual o papel da comunicação e do marketing?](./Trilha%20Campinas/Sustentabilidade%20em%20foco%20-%20Qual%20o%20papel%20da%20comunicação%20e%20do%20marketing.pdf) | Gustavo Tangi |
 | **14:00** | [Como dev consegue promoção, Mudando comportamento em reuniões](./Trilha%20Campinas/Como%20dev%20consegue%20promoção,%20Mudando%20comportamento%20em%20reuniões.%20Sem%20Deixar%20transparência%20e%20valor.%20%282%29.pptx) | Andre Molero |
@@ -77,7 +77,7 @@ Bem-vindo ao repositório oficial do **DEVPIRA Festival 2025**! Um evento dedica
 | :--- | :--- | :--- |
 | **10:05** | [O Dev estratégico existe? Ferramentas e práticas para ir Além](./Trilha%20Rio%20Claro/O%20Dev%20estratégico%20existe%20Ferramentas%20e%20práticas%20para%20ir%20Além.pdf) | Ana Paula Lima |
 | **10:55** | [Acessibilidade web na prática](https://github.com/stenicodecio/devpira-2025-acessibilidade) | Décio Stenico |
-| **11:45** | Modelagem Relacional X Modelagem Dimensional - aspectos negligenciados em DataWarehouses | Hugo Venturini |
+| **11:45** | [Modelagem Relacional X Modelagem Dimensional - aspectos negligenciados em DataWarehouses](./Trilha%20Rio%20Claro/Hugo%20-%20Exposição_Modelagem_de_Dados.pptx) | Hugo Venturini |
 | **14:00** | Testes de Mutação: Como Descobrir se Seus Testes São Mentirosos | Carlos Forti |
 | **14:50** | [Test Driven Development (TDD) na Prática com Django](https://github.com/orlandosaraivajr/festival_devPira_2025) | Orlando Saraiva Júnior |
 | **15:40** | [RAG na sua base transacional com MongoDB Atlas Vector Search](./Trilha%20Rio%20Claro/RAG%20na%20sua%20base%20transacional%20com%20MongoDB%20Atlas.pdf) | Gabriel Limoni |
